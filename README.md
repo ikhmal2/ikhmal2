@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ikhmal</h1>
 <h3 align="center">A young developer who just got he's feet wet</h3>
 
-- 🔭 I’m currently working on my personal [Personal Portfolio](https://github.com/ikhmal2/personalporfolio)
+- 🔭 I’m currently working on my [Personal Portfolio](https://github.com/ikhmal2/personalporfolio)
 
 - 🌱 I’m currently learning **Vue.js and planning to learn more about CSS frameworks**
 
