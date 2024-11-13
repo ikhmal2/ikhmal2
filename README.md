@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ikhmal</h1>
 <h3 align="center">A young developer who just got he's feet wet</h3>
 
-- 🔭 I’m currently working on my [Personal Portfolio](https://github.com/ikhmal2/personalporfolio)
+- 🔭 I’m currently working on my [SapuSapu](https://github.com/ikhmal2/sapusapu)
 
-- 🌱 I’m currently learning **Vue.js and planning to learn more about CSS frameworks**
+- 🌱 I’m currently learning **Golang**
 
 - 👨‍💻 All of my projects are available at [coming soon..]
 
-- 💬 Teach me **vue, react**
-
 - 📫 How to reach me **ax.ikhmal.145713@gmail.com**
 
-- 📄 Know about my experiences [coming soon]
+- 📄 Know about my experiences [Portfolio](https://ikhmal2.github.io/personalporfolio)
 
 - ⚡ Fun fact **I like cats**
 
